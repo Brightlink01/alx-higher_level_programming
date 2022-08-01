@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+""" the module for list class inheritANCE"""
+
 class MyList(list):
     """ inherits from the list base class and implements
         sorted printing
