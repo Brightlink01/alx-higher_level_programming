@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+
+
+""" This module defines a class based on 5-base_geometry.py ."""
+
+
 class BaseGeometry:
     """Base Geometry class"""
 
