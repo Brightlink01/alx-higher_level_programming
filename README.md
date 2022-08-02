@@ -1,5 +1,5 @@
 # Higher-level programming
-## This reposistory is for python projects to fullfill the ALX SE High level programing career path
+## This reposistory is for python projects to fullfill the ALX SE(software Engineering) High level programing career path
 #### 0x00. Python - Hello, World
 #### 0x01. Python - if/else, loops, functions
 #### 0x02. Python - import & modules
