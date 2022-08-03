@@ -14,7 +14,9 @@ n which several independent agents interact within the computer. Each object bun
 te and behavior in a way that abstracts the complexity of both. Objects communicate with each other, an\
 d useful results are computed as a consequence of their interaction. Not only do objects pass messages,\
 they also share behavior among other objects of the same type and inherit characteristics from related\
-types.This is project 3 on python to fullfill the ALX SE High level programing career path
+types.
+
+### The following projects are done on python3 inorder to fullfill the ALX SE High level programing career path
 
 #### 0x00. Python - Hello, World
 #### 0x01. Python - if/else, loops, functions
