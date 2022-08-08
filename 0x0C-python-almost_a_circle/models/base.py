@@ -100,7 +100,7 @@ class Base:
         import turtle
 
         turtle.penup()
-        turtle.pensize(10)
+        turtle.pensize(5)
         turtle.bgcolor("black")
         turtle.color("teal")
         turtle.hideturtle()
