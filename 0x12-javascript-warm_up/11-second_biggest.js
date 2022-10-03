@@ -1,7 +1,5 @@
 #!/usr/bin/node
-
 const size = process.argv.length;
-
 if (size <= 3) {
   console.log(0);
 } else {
@@ -10,4 +8,3 @@ if (size <= 3) {
   newA.sort((a, b) => a - b);
   console.log(newA[newA.length - 2]);
 }
-
