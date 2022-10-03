@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 const size = process.argv[2];
 let charc = '';
 if (process.argv.length < 3 || isNaN(size)) {
@@ -11,4 +10,3 @@ if (process.argv.length < 3 || isNaN(size)) {
     console.log(charc);
   }
 }
-
